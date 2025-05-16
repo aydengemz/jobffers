@@ -2,43 +2,43 @@ export default function Home() {
   const jobOffers = [
     {
       company: "Netflix",
-      url: "https://glstrck.com/aff_c?offer_id=973&aff_id=11848",
+      url: "https://glstrck.com/aff_c?offer_id=973&aff_id=11848&source=landerred",
       salary: "$22 - $42/hr",
       type: "Streaming & Entertainment"
     },
     {
       company: "Disney",
-      url: "https://glstrck.com/aff_c?offer_id=1365&aff_id=11848",
+      url: "https://glstrck.com/aff_c?offer_id=1365&aff_id=11848&source=landerred",
       salary: "$18 - $35/hr",
       type: "Entertainment & Media"
     },
     {
       company: "Amazon",
-      url: "https://glstrck.com/aff_c?offer_id=971&aff_id=11848",
+      url: "https://glstrck.com/aff_c?offer_id=971&aff_id=11848&source=landerred",
       salary: "$20 - $38/hr",
       type: "E-commerce & Technology"
     },
     {
       company: "Walmart",
-      url: "https://glstrck.com/aff_c?offer_id=972&aff_id=11848",
+      url: "https://glstrck.com/aff_c?offer_id=972&aff_id=11848&source=landerred",
       salary: "$16 - $32/hr",
       type: "Retail & Logistics"
     },
     {
       company: "Apple",
-      url: "https://glstrck.com/aff_c?offer_id=1045&aff_id=11848",
+      url: "https://glstrck.com/aff_c?offer_id=1045&aff_id=11848&source=landerred",
       salary: "$24 - $45/hr",
       type: "Technology & Innovation"
     },
     {
       company: "Google",
-      url: "https://glstrck.com/aff_c?offer_id=1373&aff_id=11848",
+      url: "https://glstrck.com/aff_c?offer_id=1373&aff_id=11848&source=landerred",
       salary: "$26 - $48/hr",
       type: "Technology & Research"
     },
     {
       company: "Spotify",
-      url: "https://glstrck.com/aff_c?offer_id=1970&aff_id=11848",
+      url: "https://glstrck.com/aff_c?offer_id=1970&aff_id=11848&source=landerred",
       salary: "$21 - $40/hr",
       type: "Music & Technology"
     }
